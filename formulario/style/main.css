@@ -3,6 +3,8 @@ body{
     background-image: url(https://3.bp.blogspot.com/-_gW6D7aU9tY/VMgy4pzWFaI/AAAAAAAAWhQ/gLlPL_HTmh0/s1600/39655-2560x1600.Jpg);
     background-position-x: 31%;
     background-position-y: 31%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 form {
@@ -28,6 +30,7 @@ button {
     color: #000000;
 }
 
+
 h1{
     color: #fbff00;
     font-size: 2rem;
@@ -37,14 +40,19 @@ h1{
 }
 
 h2 {
-    color:#6cd271
+    color:#6cd271 ;
 }
+  
+
+
 
 button:hover {
     color: #6cd271;
     background-color: #000000;
 }
 
-.pointclass {
-     background-image: url();
- }
+.Aling {
+    text-align: center;
+}
+
+
